@@ -4,8 +4,7 @@ __pycache__/
 *$py.class
 
 data
-dvclive
-.dvc
+
 # C extensions
 *.so
 
