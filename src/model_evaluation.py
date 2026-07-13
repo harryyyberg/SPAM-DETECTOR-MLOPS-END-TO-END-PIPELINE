@@ -6,7 +6,6 @@ import json
 from sklearn.metrics import accuracy_score, precision_score, recall_score, roc_auc_score
 import logging
 import yaml
-
 try:
     from dvclive import Live
 except (ImportError, AttributeError):
